@@ -1,4 +1,4 @@
-## My Favorite Class
+# My Favorite Class
 ![Awesome class](Capture.JPG)
 
 ## My Favorite Website

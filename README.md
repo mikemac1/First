@@ -1,7 +1,7 @@
-# My Favorite Board Game
+# First
 My first website
 
-# Terraforming Mars
+## Terraforming Mars
 My first Try
 
 ## My Favorite Class

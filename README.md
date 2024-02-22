@@ -1,4 +1,5 @@
-## My Favotire Board Game
+# My Favorite Board Game
+
 ### Terraforming Mars
 
 My first website
